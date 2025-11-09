@@ -98,6 +98,7 @@ Steps:
 ### pwn
  - **[Fiftiweb](/writeups/pwn/Fiftiweb)**
  - **[Badge Overflow](/writeups/pwn/Badge%20Overflow)**
+	 - [RumbleInTheJungle](/writeups/pwn/Badge%20Overflow/RumbleInTheJungle)  
  - **[Stoneshop](/writeups/pwn/Stoneshop)**
  - **[Veal and Car's first baby (heap) is all grown up](/writeups/pwn/Veal%20and%20Car's%20first%20baby%20(heap)%20is%20all%20grown%20up)**
  - **[Encryptor](/writeups/pwn/Encryptor)**
