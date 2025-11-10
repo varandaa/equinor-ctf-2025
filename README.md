@@ -59,6 +59,7 @@ Steps:
  - **[Hyperactive](/writeups/crypto/Hyperactive)**
  - **[Make-a-String](/writeups/crypto/Make-a-String)**
  - **[420BasedIt](/writeups/crypto/420BasedIt)**
+	 - [UiACTF](/writeups/crypto/420BasedIt/UiACTF)  
 	 - [big](/writeups/crypto/420BasedIt/big)  
 	 - [bwnfools](/writeups/crypto/420BasedIt/bwnfools)  
  - **[Srstokken](/writeups/crypto/Srstokken)**
@@ -90,6 +91,7 @@ Steps:
  - **[Zippy](/writeups/misc/Zippy)**
  - **[Cubeguessr](/writeups/misc/Cubeguessr)**
  - **[Agents](/writeups/misc/Agents)**
+	 - [UiACTF](/writeups/misc/Agents/UiACTF)  
 	 - [bwnfools](/writeups/misc/Agents/bwnfools)  
  - **[Buffy the fortune teller](/writeups/misc/Buffy%20the%20fortune%20teller)**
 ### reversing
