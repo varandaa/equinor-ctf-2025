@@ -109,9 +109,11 @@ Steps:
  - **[FlagChecker](/writeups/reversing/FlagChecker)**
 	 - [enso](/writeups/reversing/FlagChecker/enso)  
  - **[EPTBoy Strikes Back](/writeups/reversing/EPTBoy%20Strikes%20Back)**
+	 - [ekho](/writeups/reversing/EPTBoy%20Strikes%20Back/ekho)  
  - **[FlagPrinter](/writeups/reversing/FlagPrinter)**
 	 - [bwnfools](/writeups/reversing/FlagPrinter/bwnfools)  
  - **[EPTBoy](/writeups/reversing/EPTBoy)**
+	 - [ekho](/writeups/reversing/EPTBoy/ekho)  
  - **[Dark Side of the Shader](/writeups/reversing/Dark%20Side%20of%20the%20Shader)**
 ### onsite
  - **[Quiz-About](/writeups/onsite/Quiz-About)**
